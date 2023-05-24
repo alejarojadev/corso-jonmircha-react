@@ -10,3 +10,5 @@ En este repositorio encontrarás los recursos para seguir el [Curso de _React_](
 - 👉 Visita mi sitio web https://jonmircha.com/ 💻
 - 🌮 ¿Me invítas un taco? https://www.paypal.me/jonmircha
 - 📫 Suscríbete a mi lista de correo https://tinyletter.com/jonmircha/
+
+hola practicando colaboraciones github
